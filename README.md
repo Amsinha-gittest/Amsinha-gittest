@@ -32,8 +32,8 @@
 
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Debian](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=Debian&logoColor=a80030)&nbsp;
-![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple&logoColor=white)&nbsp;
-
+![MacOS](https://img.shields.io/badge/-Macintosh-05122A?style=flat&logo=apple&logoColor=white)&nbsp;
+[![An image of @amsinha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amsinha)](https://holopin.io/@amsinha)
 
 ### 👨‍💻 About me
 
